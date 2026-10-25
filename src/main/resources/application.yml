@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/giveaway
+    username: postgres
+    password: postgres
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+app:
+  admin-key: admin123
+  end-date: "2026-12-31"
+  final-prize: "билет на Серёжу Лазарева)"
+  fake-date: ""
