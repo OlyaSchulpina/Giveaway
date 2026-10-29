@@ -1,6 +1,6 @@
 # Giveaway: Бот розыгрышей REST-приложение
 
-Spring Boot 3.3, Java 17, Maven, PostgreSQL, Swagger. Без Lombok.
+Spring Boot 3.3, Java 17, Maven, PostgreSQL, Swagger.
 
 ## Запуск
 1. В pgAdmin нужно создать базу `giveaway`.
